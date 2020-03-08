@@ -5,7 +5,7 @@
 [![SensioLabsInsight](https://insight.sensiolabs.com/projects/838624c3-208d-4ba5-84aa-3afc76b093bb/mini.png)](https://insight.sensiolabs.com/projects/838624c3-208d-4ba5-84aa-3afc76b093bb)
 [![License](https://poser.pugx.org/laravel/framework/license.svg)](https://github.com/webNeat/lumen-generators/blob/master/LICENSE)
 
-A collection of generators for [Lumen](http://lumen.laravel.com) and [Laravel 5](http://laravel.com/).
+A collection of generators for [Lumen](http://lumen.laravel.com) and [Laravel 6](http://laravel.com/).
 
 ## Contents
 
